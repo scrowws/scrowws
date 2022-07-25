@@ -1,5 +1,6 @@
 - <h1> 👋 Hi, I’m @scrowws, but you can call me Leonardo </h1>
 - 🌱 I’m currently learning HTML and CSS.
+- <strong> Probably another Front-end-dev </strong>
 
 <!---
 scrowws/scrowws is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
